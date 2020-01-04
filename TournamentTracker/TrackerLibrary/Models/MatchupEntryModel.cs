@@ -9,7 +9,7 @@ namespace TrackerLibrary.Models
         /// <summary>
         /// Represents one team in the matchup.
         /// </summary>
-        public TeamModel TeamCompeating { get; set; }
+        public TeamModel TeamCompeting { get; set; }
 
         /// <summary>
         /// Represents the score for this particular team.
